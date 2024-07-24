@@ -16,8 +16,12 @@
 
   <h3 align="center">Simulación Matematica</h3>
 
+  <a href="https://github.com/Navi-SS">
+    <img src="images/header.JPG" alt="Logo" style="height: 60%; width:60%;">
+  </a>
+
   <p align="center">
-    Un repositorio con códiogs en Python
+    Un repositorio con códigos en Python
     <br />
     <br />
     <a href="https://github.com/Navi-SS/Simulacion">Material adicional</a>
@@ -40,6 +44,7 @@
         <li><a href="#construido-con">Construido con</a></li>
       </ul>
     </li>
+    <li><a href="#lista-de-videos">Lista de Videos</a></li>
     <li>
       <a href="#comienza-a-usarlo">Comienza a usarlo</a>
       <ul>
@@ -67,6 +72,22 @@ El proyecto esta creado en el lenguaje de programación Python en su versión 3.
 
 * [![Python][Python]][Python-url]
 
+## Lista de Videos
+
+- [¿Qué es la simulación matemática de yacimientos? ¿Qué es un simulador? ¿Tipos de simuladores?](https://youtu.be/hYj8nNmzXMs?si=Yc6KXcwOUc-u1rJA)
+- [¿Cómo crear un modelo de simulación? ¿Cuántas dimensiones hay en un modelo de simulación?](https://youtu.be/GC1IHGdZu34?si=er3hvkPAOhu0N_8d)
+- [Método explicito para un yacimiento de 1 dimensión](https://youtu.be/TkRNmAfTZqg?si=3IylYWUwPxlh0nrH)
+- [Simulación 1D lineal (Explicito) progrmando con Python](https://youtu.be/hWEOYw7Xe6I?si=CEU6TC4N2tmc0Cz8)
+- [Metodo explicito vs implicito](https://youtu.be/MZWzhTKi4nk?si=gFIx7LTs5mIiIspN)
+- [Método Implícito en 1 dimensión (Teoría)](https://youtu.be/x8If5cfzpSc?si=P0NlJn77R0VzreIT)
+- [Algoritmo de Thomas con Python](https://youtu.be/kPbaioTJY-U?si=KSAH3FT9ohPyVwpr)
+- [Simulacion 1D lineal implicita con Python](https://youtu.be/93J8FGkE0Qc?si=Q_UFtyWUlzIvptbb)
+- [Programando el método explícito 1D lineal con propiedades](https://youtu.be/uUMglxdlLTQ?si=5HZ8lPVBa_WFffUH)
+- [Efectos gravitacionales](https://youtu.be/ARGZf5XdtiI?si=bGS9KHZLc9XOVg6m)
+- [Efectos gravitacioneales parte 2](https://youtu.be/Ph9JwMDadg8?si=ltBZvuk8uZkAD09e)
+- [Programando un simulador 1 dimension con efectos gravitacionales y condiciones de fontera](https://youtu.be/gocPTUo5qdo?si=KZNuTwJ22WzIqqFg)
+- [Simulacion en un yacimiento radial en 1 dimension](https://youtu.be/Pq_3-mOsVRg?si=AVpidMjI3uV_qwQM)
+
 <!-- GETTING STARTED -->
 ## Comienza A Usarlo
 
@@ -91,7 +112,7 @@ _Abajo se muestra una guía para la instalación del repositorio_
    ```
 2. Instalar las paqueterias
    ```sh
-   pip install -r requirements
+   pip install -r requirements.txt
    ```
 
 
